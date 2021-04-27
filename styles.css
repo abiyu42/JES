@@ -1,0 +1,8 @@
+body{ 
+    background-image:url(bgphoto2.jpg);
+    backround-color:#cccccc;/*used if the image is unavailable*/
+    height:500px;/*you must set a specified height*/
+    background-postion: center;/*center the image*/
+    backgroud-repeat:no-repeat;/*Do not repeat the image*/
+    background-size:cover;
+}	
